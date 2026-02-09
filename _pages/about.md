@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a junior undergraduate at [NYU Shanghai](https://shanghai.nyu.edu/) majoring in Computer Science. My research interests include **AI for Scientific Research**, **Agents**, and **Information Retrieval**.
+I'm a junior undergraduate at [NYU Shanghai](https://shanghai.nyu.edu/) majoring in Computer Science. My research interests include **AI for Scientific Research**, **Deep Research Agents**, and **Information Retrieval**.
 
 I am fortunate to work with Prof. [Chen Zhao](https://henryzhao5852.github.io) (NYU Shanghai), Prof. [Arman Cohan](https://armancohan.com/) (Yale University), and [Yilun Zhao](https://yilunzhao.github.io/) (Yale University).
